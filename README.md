@@ -67,13 +67,16 @@ Chuka University, Kenya | 2015
 
 ---
 
-## 📜 Certifications *(In Progress)*
+## 📜 Certifications
 
-- HubSpot Customer Service Certification
-- Google Digital Marketing & E-commerce
-- HubSpot Content Marketing Certification
-- Google Analytics Certification
-- Hootsuite Social Marketing Certification
+| Certificate | Provider | Status |
+|---|---|---|
+| SEMrush SEO Fundamentals | SEMrush Academy | ✅ Earned · 2025 |
+| HubSpot Customer Service Certification | HubSpot Academy | 🔄 In Progress |
+| Google Digital Marketing & E-commerce | Google / Coursera | 🔄 In Progress |
+| HubSpot Content Marketing Certification | HubSpot Academy | 🔄 In Progress |
+| Google Analytics Certification | Google Skillshop | 🔄 In Progress |
+| Hootsuite Social Marketing Certification | Hootsuite Academy | 🔄 In Progress |
 
 ---
 
